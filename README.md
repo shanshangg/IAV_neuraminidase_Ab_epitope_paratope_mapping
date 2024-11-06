@@ -4,7 +4,7 @@ Influenza A virus triggers large - scale epidemics across the globe every year, 
 
 ├── README.md
 We collected and sorted the structural data of antigen - antibody complexes of NA protein in the SabDab database, and obtained a summary table of data information of antigen - antibody complexes of neuraminidase protein of influenza A virus.
-├── Summary_of_ab_ag_complexes.csv
+├── data/Summary_of_ab_ag_complexes.csv
 
 In this study, the epitope and the site numbers and amino acid types of the corresponding antibody - coordinated amino acid residues were extracted, and the distribution of epitope sites on all 37 antigen - antibody complexes was statistically analyzed. Furthermore, the key regions on the NA antigen protein that stimulate the body to produce neutralizing antibodies were located.
-├── Residues_of_epitopes.xlsx
+├── data/Residues_of_epitopes.xlsx
